@@ -1,0 +1,2 @@
+# GITIDEATest02
+测试说明使用GIT IDEA
